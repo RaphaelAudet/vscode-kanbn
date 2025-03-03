@@ -2,6 +2,8 @@
 
 [![MIT License](https://img.shields.io/github/license/basementuniverse/vscode-kanbn?color=orange)](https://opensource.org/licenses/MIT)
 
+[![CodeQL Advanced](https://github.com/RaphaelAudet/vscode-kanbn/actions/workflows/codeql.yml/badge.svg)](https://github.com/RaphaelAudet/vscode-kanbn/actions/workflows/codeql.yml)
+
 This extension adds a [Kanbn](https://www.npmjs.com/package/@basementuniverse/kanbn)-powered kanban board to Visual Studio Code.
 
 This extension is a fork of the original [Kanbn Extension](https://github.com/basementuniverse/vscode-kanbn). Some documentation may be out of date. Please report any issues through [GitHub](https://github.com/samgiz/vscode-kanbn/issues/new).
